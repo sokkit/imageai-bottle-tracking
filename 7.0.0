@@ -1,0 +1,5 @@
+Collecting cython
+  Using cached Cython-0.29.34-py2.py3-none-any.whl (988 kB)
+Requirement already satisfied: pillow in c:\users\c2061455\appdata\local\anaconda3\envs\myenv\lib\site-packages (7.0.0)
+Installing collected packages: cython
+Successfully installed cython-0.29.34
